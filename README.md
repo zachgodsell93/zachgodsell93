@@ -9,7 +9,7 @@
 - 👋 I'm Zach and I live on the Gold Coast, Australia
 - 👀 Currently working as a software developer, primarily focused on backend development.
 - ⚡ In my free time, I like to 🏄‍♂️ and play with my 🐕 Switch
-- 📫 How to reach me ...
+- 📫 How to reach me: zach@zachgodsell.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
